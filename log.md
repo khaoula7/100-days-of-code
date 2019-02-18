@@ -1,5 +1,8 @@
 # 100 Days Of Code - Log
 
+## Goal of the Journey:
+Build a Protfolio of 5 Android Apps with different features and components.
+
 ### Day 1: February 18, 2019 
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
