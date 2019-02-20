@@ -20,7 +20,7 @@ Build a Protfolio of 5 Android Apps with different features and components.
 
 ### Day 3: February 20, 2019
 
-**Today's Progress**: IWorked on adding a new project into database and displaying project infos using ListView and CursorAdapter. Didn't complete it though ;)
+**Today's Progress**: I Worked on adding a new project into database and displaying project infos using ListView and CursorAdapter. Didn't complete it though ;)
 
 **Today's thoughts**: I learned how to perform autocompletion by using AutoCompleTextView. For every new App developed, it is important to set new challenges and learn new things.
 
