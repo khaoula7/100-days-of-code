@@ -5,19 +5,25 @@ Build a Protfolio of 5 Android Apps with different features and components.
 
 ### Day 1: February 18, 2019 
 
-**Today's Progress**: Started my second Android App to track time spent on personal projects: defined App Goals, created sketches and wireframes, built activity_main layout and editor_dialog layout.
+**Today's Progress**: I Started my second Android App to track time spent on personal projects: defined App Goals, created sketches and wireframes, built activity_main layout and editor_dialog layout.
 
-**Link to work:** [WorkTracker App](http://www.example.com)
-
-
+**Link to work:** [WorkTracker App](https://github.com/khaoula7/work-tracker)
 
 
-### Day 1: June 27, Monday
+### Day 2: February 18, 2019
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I Designed database structure and implemented Data package (Contract Class, SQLiteOpenHelper and Content Provider).
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link(s) to work: ** [WorkTracker App](https://github.com/khaoula7/work-tracker)
+
+
+### Day 3: February 20, 2019
+
+**Today's Progress**: IWorked on adding a new project into database and displaying project infos using ListView and CursorAdapter. Didn't complete it though ;)
+
+** Today's thoughts**: I learned how to perform autocompletion by using AutoCompleTextView. For every Anew App developed, it is important to set new challenges and learn new things.
+
+**Link(s) to work: ** [WorkTracker App](https://github.com/khaoula7/work-tracker)
+
+
