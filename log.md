@@ -5,11 +5,9 @@ Build a Protfolio of 5 Android Apps with different features and components.
 
 ### Day 1: February 18, 2019 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Started my second Android App to track time spent on personal projects: defined App Goals, created sketches and wireframes, built activity_main layout and editor_dialog layout.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [WorkTracker App](http://www.example.com)
 
 
 
