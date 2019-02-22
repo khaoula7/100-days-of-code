@@ -36,7 +36,7 @@ Build a Protfolio of 5 Android Apps with different features and components.
 
 **Today's Progress**: Worked on Powering AutoCompleteTextView from a cursor using CursorAdapter and implemented query and insert methods in ContentProvider.
 
-**Today's thoughts**: I feel my progress is becoming too slow. Inserting data into database and displaying it back isn't a trivial task. I hope achieveing noticeable progress in the next few days.
+**Today's thoughts**: I feel my progress is becoming too slow. Inserting data into database and displaying it back isn't a trivial task. I hope achieving noticeable progress in the next few days.
 
 **Link(s) to work**: [WorkTracker App](https://github.com/khaoula7/work-tracker)
 
